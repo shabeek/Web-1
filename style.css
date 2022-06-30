@@ -1,0 +1,64 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 274px;
+    top: 236px;
+    font-size: 500%;
+    text-decoration: underline;
+  }
+
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    color: crimson;
+    left: 526px;
+    top: 224px;
+    font-size: 500%;
+    text-decoration: underline;
+  }
+
+  p.welcome{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 274px;
+    top: 394px;
+    font-size: x-large;
+    color: aliceblue;
+    
+  }
+
+  h2:hover{
+    color: rgb(255, 255, 255);
+    transition: .3s;
+  }
+
+  img{
+    
+    object-fit: none;
+    width:1600px;
+    height:800px;
+    
+  }
+
+  .hobbies{
+    color: rgb(253, 249, 251);
+    list-style-type: circle;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 274px;
+    top: 558px;
+    font-size: large;
+    border-style: solid;
+  }
+
+ 
+
+  .skills{
+    color: aliceblue;
+    list-style-type: disc;
+    position: absolute;
+    left: 491px;
+    top: 558px;
+    border-style: dotted;
+  }
